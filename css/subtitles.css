@@ -17,14 +17,13 @@ div#subtitle {
     bottom: 75vh;
     left: 0px;
     background: transparent;
-    font-family: "San Francisco",
-        "Helvetica Neue", "Helvetica",
-        Arial, Sans-Serif;
+    font-family: "Bodoni MT",
+        Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
     font-size: calc( 3vh + 3vw );
     font-weight: 200;
     line-height: calc( 4vh + 3vw );
-    color: #fefef2;
-    text-shadow: 3px 1px 4px #222;
+    color: #874d10;
+    text-shadow: 0px 0px 0px #222;
     display: flex;
     flex-direction: column;
     flex-flow: column wrap;
